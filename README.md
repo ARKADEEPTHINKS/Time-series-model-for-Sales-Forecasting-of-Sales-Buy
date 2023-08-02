@@ -1,1 +1,1 @@
-# Time-series-model-for-Sales-Forecasting-of-Sales-Buy
+# Time-series-model-for-Sales-Forecasting-of-Simple-Buy
